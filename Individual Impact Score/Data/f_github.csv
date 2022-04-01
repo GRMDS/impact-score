@@ -1,0 +1,25 @@
+,follower_number,languages,name,repo_number,repo_name,star_number,uid
+0,0 ,"['JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook']",,14,"['Hurricane', 'BSAN6070-CA-Chen', 'nlp-in-python-tutorial', 'Capstone_RPA_NLP', 'Public-files']",32,110
+1,0 ,"['JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook']",,14,"['Hurricane', 'BSAN6070-CA-Chen', 'nlp-in-python-tutorial', 'Capstone_RPA_NLP', 'Public-files']",32,333
+2,0 ,"['JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook']",,14,"['Hurricane', 'BSAN6070-CA-Chen', 'nlp-in-python-tutorial', 'Capstone_RPA_NLP', 'Public-files']",32,488
+3,0 ,"['JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook']",,14,"['Hurricane', 'BSAN6070-CA-Chen', 'nlp-in-python-tutorial', 'Capstone_RPA_NLP', 'Public-files']",32,679
+4,0 ,"['', 'Python', 'Python']",Jenny Ju,12,"['hello-world', 'cupy', 'home-assistant']",33,685
+5,0 ,"['', 'Python', 'Python']",Jenny Ju,12,"['hello-world', 'cupy', 'home-assistant']",33,690
+6,1 follower,"['Vue', '', 'JavaScript', 'JavaScript']",,13,"['rsgis-gallery', 'Geodetic_Program', 'FileManager', 'echarts-examples']",34,692
+7,1 follower,"['Vue', '', 'JavaScript', 'JavaScript']",,13,"['rsgis-gallery', 'Geodetic_Program', 'FileManager', 'echarts-examples']",34,693
+8,1 follower,"['Vue', '', 'JavaScript', 'JavaScript']",,13,"['rsgis-gallery', 'Geodetic_Program', 'FileManager', 'echarts-examples']",34,695
+9,0 ,"['', '', '', 'R', 'HTML']",,14,"['HelloWord.md', 'datasharing', 'datasciencecoursera', 'ProgrammingAssignment2', 'RepData_PeerAssessment1']",32,1025
+10,0 ,"['', '', '', 'R', 'HTML']",,14,"['HelloWord.md', 'datasharing', 'datasciencecoursera', 'ProgrammingAssignment2', 'RepData_PeerAssessment1']",32,1186
+11,1 follower,"['JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'Python', 'Python']",Chengjun Liu,23,"['Data-Engineer-Nanodegree', 'Python-for-Engineers-Kyoto-University', 'Data-Science-Nanodegree', 'Courses-Practices', 'python_scraping', 'Machine-Learning-A-Z']",49,1660
+12,1 follower,"['JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'Python', 'Python']",Chengjun Liu,23,"['Data-Engineer-Nanodegree', 'Python-for-Engineers-Kyoto-University', 'Data-Science-Nanodegree', 'Courses-Practices', 'python_scraping', 'Machine-Learning-A-Z']",49,1663
+13,1 follower,"['JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'JupyterNotebook', 'Python', 'Python']",Chengjun Liu,23,"['Data-Engineer-Nanodegree', 'Python-for-Engineers-Kyoto-University', 'Data-Science-Nanodegree', 'Courses-Practices', 'python_scraping', 'Machine-Learning-A-Z']",49,1706
+14,1 follower,"['JupyterNotebook', 'JupyterNotebook', '', 'JupyterNotebook']",Saman Siadati,13,"['Business', 'Health', 'Technology', 'Social']",32,1725
+15,0 ,[],Brian Bautista,9,[],48,1888
+16,0 ,[],Brian Bautista,9,[],48,2144
+17,4 ,"['R', 'R', 'SAS', '']",Neel Kumtakar,18,"['Bank_Churn', 'CKD_Screening', 'Education-Regression', 'NJ-Flight-Project']",32,2232
+18,103 ,"['Dockerfile', 'Java', 'Java', 'Java', 'Java', 'Groovy']",Marky Jackson,476,"['jenkinsci-on-kubernetes', 'kubernetes-plugin', 'jenkinsci/prometheus-plugin', 'gitlab-plugin', 'amazon-ecs-plugin', 'jenkinsci/groovy-events-listener-plugin']",436,3252
+19,15 ,"['Python', 'Python', 'Python', 'JupyterNotebook', 'Python', 'Shell']",Giacomo Vianello,38,"['bbbd', 'gtburst', 'gv_significance', 'fermi_school_like', 'mvts', 'hawc-docker']",33,3253
+20,0 ,"['JupyterNotebook', 'Python', 'JupyterNotebook']",Ahmed Hassan Ahmed Mohammed,12,"['Data-science-projects', 'Brainless', 'Natural-Language-Processing-Specialization']",33,3412
+21,0 ,"['JupyterNotebook', 'Python', 'JupyterNotebook']",Ahmed Hassan Ahmed Mohammed,12,"['Data-science-projects', 'Brainless', 'Natural-Language-Processing-Specialization']",33,3486
+22,1 follower,['JupyterNotebook'],,10,['ml_cupstone'],32,3515
+23,1 follower,"['JupyterNotebook', 'JupyterNotebook', 'HTML', 'Python', 'JupyterNotebook', 'JupyterNotebook']",Shridevi Reddy,34,"['Reconstructing-Medical-Images', 'Evaluating-VAE', 'Breast-Cancer-Prediction-API', 'Text-Sentiment-Dashboard-Deployment', 'Data-Science-MicroProjects', 'Fighting-adversarial-attacks']",34,3682
