@@ -1,0 +1,11 @@
+df_users:company_data/df_users.csv
+df_competition:company_data/df_competition.csv
+df_imp_detail:company_data/df_imp_detail.csv
+df_sql_expert:company_data/df_sql_expert_list02.csv
+df_sql_pi:company_data/df_sql_project_impactor_list02.csv
+df_evbr:company_data/df_evbr.csv
+df_cert:company_data/df_cert.csv
+df_scoring_constants:company_data/df_scoring_colums.csv
+df_github:company_data/df_github.csv
+df_summary_bool:company_data/df_summary_bool.csv
+weights:company_data/df_weights.csv
