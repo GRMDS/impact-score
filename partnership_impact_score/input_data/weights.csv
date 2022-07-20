@@ -1,0 +1,35 @@
+Metrics,Category,Category_weight,Dimension_weight,Metric_weight,Upper Bound,Transformation,k
+business age,Company Capacity,0.14,0.25,0.035,40,Log,0.13235
+number of employee,Company Capacity,0.14,0.25,0.035,5,Special,1.0498
+revenue,Company Capacity,0.14,0.25,0.035,5,Special,1.0498
+office locations,Company Capacity,0.14,0.15,0.021,5,Special,1.0498
+listed company indicator,Company Capacity,0.14,0.1,0.014,1,Boolean,
+website complexity,Media Coverage,0.1,0.25,0.025,100,Special,0.003499
+social media popularity,Media Coverage,0.1,0.25,0.025,10000,Log,0.000525
+social media presence,Media Coverage,0.1,0.25,0.025,7,Log,0.749857
+social mention,Media Coverage,0.1,0.25,0.025,300,Log,0.017497
+company rating,Public Opinions,0.08,0.4,0.032,5,Special,1.0498
+ceo approval,Public Opinions,0.08,0.3,0.024,1,Special,5.249
+employee satisfaction,Public Opinions,0.08,0.3,0.024,100,Special,0.05249
+employee diversity,social and environmental impact,0.08,0.2,0.016,100,Special,0.05249
+community practice,social and environmental impact,0.08,0.3,0.024,6,Log,0.874833
+carbon footprint,social and environmental impact,0.08,0.2,0.016,10000,Log,0.000525
+environmental practice,social and environmental impact,0.08,0.3,0.024,6,Log,0.874833
+number of individual from the company,employee's individual impact score,0.24,0.4,0.096,100,Log,0.05294
+individuals impact scores_sum,employee's individual impact score,0.24,0.3,0.072,1500,Log,0.003529
+individuals impact scores_mean,employee's individual impact score,0.24,0.3,0.072,25,Log,0.21176
+number of upload,organization's impact score,0.24,0.15,0.036,52,Log,0.101808
+number of views_sum,organization's impact score,0.24,0.125,0.03,15000,Log,0.000353
+number of views_mean,organization's impact score,0.24,0.125,0.03,500,Log,0.010588
+rating score_sum,organization's impact score,0.24,0.075,0.018,250,Log,0.021176
+rating score_mean,organization's impact score,0.24,0.075,0.018,5,Linear,1.0588
+number of comment_sum,organization's impact score,0.24,0.075,0.018,104,Log,0.050904
+number of comment_mean,organization's impact score,0.24,0.075,0.018,5,Log,1.0588
+number of project completed_sum,organization's impact score,0.24,0.15,0.036,30,Log,0.176467
+number of followers_sum,organization's impact score,0.24,0.05,0.012,50,Log,0.10588
+number of competition completed_sum,organization's impact score,0.24,0.05,0.012,4,Linear,1.3235
+active rate,organization's impact score,0.24,0.025,0.006,1,Boolean,
+proportion of the company employees involved,organization's impact score,0.24,0.025,0.006,1,Linear,5.294
+number of self organization comment,organization and employee interaction,0.12,0.4,0.048,25,Log,0.21176
+number of self organization rating,organization and employee interaction,0.12,0.4,0.048,25,Log,0.21176
+number of self organization follower,organization and employee interaction,0.12,0.2,0.024,100,Log,0.05294
